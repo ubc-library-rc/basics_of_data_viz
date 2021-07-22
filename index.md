@@ -23,7 +23,6 @@ At the end of this workshop, you will be able to:
 [Data Visualization slides (PDF)](https://github.com/ubc-library-rc/basics_of_data_viz/files/6864815/Data.Viz.Content.pdf)
 
 
-
 ## Schedule
 
 | 0:00 | Welcome and using Zoom|
