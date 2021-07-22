@@ -17,6 +17,13 @@ At the end of this workshop, you will be able to:
 2. make your graph easy interpretable and neat looking
 3. tell a story using data
 
+
+## Workshop slides
+
+[Data Visualization slides (PDF)](https://github.com/ubc-library-rc/basics_of_data_viz/files/6864815/Data.Viz.Content.pdf)
+
+
+
 ## Schedule
 
 | 0:00 | Welcome and using Zoom|
@@ -27,4 +34,4 @@ At the end of this workshop, you will be able to:
 | 1:00 | Wrap-up and Discussion |
 
 ## Resources
-* [eg. link to external slides]
+
