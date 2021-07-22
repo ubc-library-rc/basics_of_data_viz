@@ -27,11 +27,13 @@ At the end of this workshop, you will be able to:
 ## Schedule
 
 | 0:00 | Welcome and using Zoom|
-| 0:05 | Introduction |  
-| 0:15 |  |
-| 0:30 |  |   
-| 0:45 |  |
-| 1:00 | Wrap-up and Discussion |
+| 0:10 | What this workshop is about|  
+| 0:15 | Basics: form or content?|
+| 0:20 | Types of charts|   
+| 0:35 | Instruments|
+| 0:50 | Color use |
+| 0:55 | Visualization software |
+| 1:00 | Questions & Discussion |
 
 ## Resources
 
