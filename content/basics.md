@@ -1,11 +1,10 @@
-
 ---
 layout: default
 title: Basics
 parent: Content
 nav_order: 1
-
 ---
+
 ## Basics
 
 Visualizations allows to see the patterns in the data. 
@@ -41,4 +40,3 @@ Use [Data to Viz](https://www.data-to-viz.com/) tool when unsure about graph typ
 If you have too many dimensions, refer to the *The Art of Effective Visualization of Multi-dimensional Data* guide on [Medium](https://towardsdatascience.com/the-art-of-effective-visualization-of-multi-dimensional-data-6c7202990c57) 
 
 Reduce [signal-to-noise ratio](https://rkabacoff.github.io/datavis/Advice.html#signal-to-noise-ratio)!
-

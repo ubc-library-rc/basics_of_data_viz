@@ -4,8 +4,8 @@ layout: default
 title: Instruments
 parent: Content
 nav_order: 2
-
 ---
+
 ## Instruments
 
 Most of the data visualization software allows you to:
