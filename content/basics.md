@@ -7,7 +7,7 @@ nav_order: 1
 
 ## Basics
 
-Visualizations allows to see the patterns in the data. 
+Visualizations allow to see the patterns in the data. 
 
 Check out [that visualization](https://bl.ocks.org/armollica/3b5f83836c1de5cca7b1d35409a013e3) of peak times for sport and leisure. If you want to explore it on your own, [here is](https://www.kaggle.com/bls/american-time-use-survey) the original data.
 
