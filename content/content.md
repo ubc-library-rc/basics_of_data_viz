@@ -13,8 +13,7 @@ Workshop slides:
 ## Links:
 - [Basics](./basics.md)
 - [Instruments](./instruments.md)
-- Design
-- Software
+- [Design](./design.md)
 
 ## References 
 - [Fundamentals of Data Visualization](https://clauswilke.com/dataviz/) book by Claus O. Wilke
