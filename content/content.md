@@ -11,7 +11,7 @@ Workshop slides:
 
 
 ## Links:
-- Basics
+- [Basics](./basics.md)
 - Instruments
 - Design
 - Software
