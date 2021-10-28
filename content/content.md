@@ -35,3 +35,6 @@ Workshop slides:
 - [WTF visualizations](http://viz.wtf/)
 - [Information is beautiful](https://www.informationisbeautifulawards.com/)
 - [Visualizations that really work](https://hbr.org/2016/06/visualizations-that-really-work) by Harvard Business Review
+
+### Other resources
+- [Visualization and analysis design](https://www.cs.ubc.ca/~tmm/vadbook/) book by Tamara Muzner 
