@@ -4,7 +4,7 @@ title: Outline
 nav_order: 1
 ---
 
-# Basics of Data Visualization
+# Principles of Data Visualization
 
 This workshop provides an overview of the principles and practices of data visualization. We are going to cover some of the most commonly used approaches and techniques on making clear visuals from messy data.<br>
 

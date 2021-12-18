@@ -1,4 +1,4 @@
-# Basics of Data Visualization
+# Principles of Data Visualization
 ### UBC Library Research Commons
   
 Link to workshop: https://ubc-library-rc.github.io/basics_of_data_viz/
